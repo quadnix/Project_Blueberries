@@ -1,0 +1,3 @@
+.at-title { /* hide {{> atForm }}'s terrible title */
+	display: none;
+}
